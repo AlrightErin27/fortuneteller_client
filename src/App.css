@@ -129,6 +129,9 @@ body {
   font-size: 40px;
   text-decoration: none;
 }
+.link:hover {
+  color: rgb(134, 71, 196);
+}
 
 /*---------CRYSTAL BALL PAGE-----------------*/
 .crystal-ball {
