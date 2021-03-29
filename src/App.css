@@ -27,9 +27,10 @@ body {
   color: rgba(221, 250, 174, 0.324);
 }
 .hands-img {
-  filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(75deg);
+  filter: sepia(100%) saturate(300%) brightness(90%) hue-rotate(75deg);
   position: relative;
   top: -90px;
+  opacity: 50%;
 }
 
 /*---------NEON GLOW FOR BANNERS-----------------*/
