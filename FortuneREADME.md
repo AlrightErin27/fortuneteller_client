@@ -26,7 +26,7 @@ Our user is someone on-the-go seeking advise. Our app will be a one-stop-shop th
 
 5.  The user can click to generate advise from the crystal ball, and it will show in their homepage automatically. And the user will stay on the crystal ball page.
 
-6.  Log out returns you to the sign in page, with a temporary modal that says "Bye!"
+6.  Log out returns you to the welcome page.
 
 ### MVP:
 
@@ -67,28 +67,6 @@ Brinn- Back end/mongo db
 ### Git Master:
 
 Erin
-
-### Sprints:
-
-March 22nd- Structure the site (lay it out), and place routes. start mernAuth and add wisdom to local db's.
-
-March 23rd: Check to see if main file structuring/routes & mernAuth work universally. Add seederfile/hard coded quotes to wisdom files.
-
-March 24th: Semuel- match mernAuth jwt with matching name & password to log in after registering. Brinn & Nakisha- forcus on page layout and front & back end communication. Erin- make sure data is being saved correctly, look into user's wisdom table and how to show it on user's profile. Math.random quotes appearing in crystal ball. Styling.
-
-Next Step- Run test files on different computers, text all different pieces together after merge.
-\*\*\*\*By Wednesday we hope to hit MVP
-
-### Routes:
-
-Login "/login"
-(incorrect login goes to /noAuth ---> /login)
-
-Users Homepage "/"
-
-Crystal Ball "/crystal-ball"
-
-Logout "/logout"
 
 ### Schema:
 
