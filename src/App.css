@@ -129,6 +129,9 @@ body {
   font-size: 40px;
   text-decoration: none;
 }
+.link:hover {
+  color: rgb(109, 54, 164);
+}
 
 /*---------CRYSTAL BALL PAGE-----------------*/
 .crystal-ball {
@@ -141,7 +144,7 @@ body {
   background-attachment: fixed;
   background-position: center;
 }
-.future-banner{
+.future-banner {
   font-family: "Rye", cursive;
   font: 70px;
   animation-name: neon;
